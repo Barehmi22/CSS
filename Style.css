@@ -1,0 +1,19 @@
+
+body{font-family: 'Roboto';font-size: 20px;}
+nav{display: inline; /* the default for nav */
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 8px solid bisque;
+    background-color: red;
+    border-radius: 5%;
+    text-align: center;
+  
+}
+    .tito{font-style: oblique ;font-size: larger; background: burlywood;}
+    .momo{background: rgb(229, 233, 233);border-radius: 5%;}
+    .fofo{background: burlywood;}
+    .dodo{background: burlywood;}
+    .soso{background: burlywood;}
+    .roro{background: burlywood;}
+    section.fofo{background-color:aquamarine ;}
